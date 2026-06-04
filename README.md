@@ -66,6 +66,24 @@
 
 当前 `.agents/skills/` 下已有以下本地 skills：
 
+### `cialdini-influence`
+
+- 路径：`.agents/skills/cialdini-influence/SKILL.md`
+- 作用：`《影响力》` 的完整知识库版 skill。
+- 用途：用于分析互惠、承诺和一致、社会认同、喜好、权威、稀缺等顺从与说服原则，适合营销、销售、谈判、传播与防骗场景。
+
+### `影响力`
+
+- 路径：`.agents/skills/影响力/SKILL.md`
+- 作用：`《影响力》` 的中文别名入口。
+- 用途：方便按中文名称调用，并跳转到核心知识库或实战教练版。
+
+### `cialdini-influence-coach`
+
+- 路径：`.agents/skills/cialdini-influence-coach/SKILL.md`
+- 作用：`《影响力》` 的实战教练版 skill。
+- 用途：把六大影响力原则转换成营销、销售、谈判、传播与防骗场景中的具体建议和示范表达。
+
 ### `kohn-unconditional-parenting`
 
 - 路径：`.agents/skills/kohn-unconditional-parenting/SKILL.md`
