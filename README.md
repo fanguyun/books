@@ -138,6 +138,24 @@
 - 作用：`《纳瓦尔宝典》` 的实战教练版 skill。
 - 用途：把书里的财富、判断力、欲望管理与自由原则转换成职业选择、创业判断和个人成长场景中的具体建议。
 
+### `reverse-thinking-mindset`
+
+- 路径：`.agents/skills/reverse-thinking-mindset/SKILL.md`
+- 作用：`《逆转思维》` 的完整知识库版 skill。
+- 用途：用于分析逆向思考、逆境转化、换位观察、职场破局、生意差异化与销售心理相关问题。
+
+### `逆转思维`
+
+- 路径：`.agents/skills/逆转思维/SKILL.md`
+- 作用：`《逆转思维》` 的中文别名入口。
+- 用途：方便按中文名称调用，并跳转到核心知识库或实战教练版。
+
+### `reverse-thinking-mindset-coach`
+
+- 路径：`.agents/skills/reverse-thinking-mindset-coach/SKILL.md`
+- 作用：`《逆转思维》` 的实战教练版 skill。
+- 用途：把书里的逆向思考、人际博弈、职场和销售原则转换成具体场景下的破局建议。
+
 ## 后续维护建议
 
 - 新增书籍时，按现有主题分类补充到对应小节。
